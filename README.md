@@ -335,6 +335,6 @@ This project was created with care and attention to design detail, combining min
 
 ---
 
-**Created with ❤️ by Manus AI**
+**Created with ❤️ by Festus**
 
 Last updated: March 12, 2026
